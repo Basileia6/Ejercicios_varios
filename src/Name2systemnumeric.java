@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Name2systemnumeric {
 
     public static void main (String[] args){
+
+        int aux;
+
         Scanner reader = new Scanner(System.in);
         System.out.println("Introduzca su nombre");
         String name = reader.next();
@@ -16,7 +19,6 @@ public class Name2systemnumeric {
         else {
             for (int j = 0; j < name.length(); j++) {
                 int letra = name.charAt(j);
-                int aux = 0;
                 String binario = "";
                 int i = letra;
 
