@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb4e5de-5f8f-4c11-a975-0b3f9180749b" name="Changes" comment="Add class Name2systemnumeric">
-      <change beforePath="$PROJECT_DIR$/src/Name2systemnumeric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Name2systemnumeric.java" afterDir="false" />
-    </list>
+    <list default="true" id="4eb4e5de-5f8f-4c11-a975-0b3f9180749b" name="Changes" comment="Change initialize variable aux" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698705024205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change initialize variable aux">
+      <created>1698705300452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698705300452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add class Name2systemnumeric" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class Name2systemnumeric" />
+    <MESSAGE value="Change initialize variable aux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change initialize variable aux" />
   </component>
 </project>
