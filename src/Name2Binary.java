@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class Name2Binary {
+    /*
+    Programa que recibe una cadena de caracteres por pantalla y lo convierte a binario
+    a través del código ASCII de sus caracteres
+
+    Introducir la base a la que se quiere convertir (2,8,16)
+     */
 
     public static void main (String[] args){
         Scanner reader = new Scanner(System.in);
