@@ -21,6 +21,7 @@ public class Arraysinrepetidos {
                 }
             }
 
+
             if(!duplicado) {
                 carton[i] = numrd;
             }
