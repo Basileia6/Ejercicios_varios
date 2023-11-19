@@ -25,15 +25,15 @@ public class Name2systemnumeric {
                 for (; i > base - 1; i = i / base) {
                     aux = i % base;
                     if (base == 16){
-                        String hex;
+                        char hex;
                         switch (aux){
-                            case 10: hex = "A"; break;
-                            case 11: hex = "B"; break;
-                            case 12: hex = "C"; break;
-                            case 13: hex = "D"; break;
-                            case 14: hex = "E"; break;
-                            case 15: hex = "F"; break;
-                            default: hex = String.valueOf(aux);
+                            case 10: hex = 'A'; break;
+                            case 11: hex = 'B'; break;
+                            case 12: hex = 'C'; break;
+                            case 13: hex = 'D'; break;
+                            case 14: hex = 'E'; break;
+                            case 15: hex = 'F'; break;
+                            default: hex = String.valueOf(aux).charAt(0);
                         }
                         binario = hex + binario;
                     }
